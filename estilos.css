@@ -1,0 +1,39 @@
+h1{
+    color: #f00; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 32px;
+}
+.todo{
+    font-size: 16px;
+    font-family:Georgia, 'Cambria',serif
+    }
+body{
+    color:blue  
+}    
+h2{
+    color: #a00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+#etiqueta span{
+    color:#060
+    }
+.fondpal span{
+    font-style: italic;
+    color: white;
+    background-color: black;
+}
+.negrita span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.fa-brands{
+    width: 400px;
+    height: 400px;
+    background: blue;
+    border: black;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 200px;
+}
